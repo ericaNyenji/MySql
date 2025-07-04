@@ -1,3 +1,4 @@
+--restock_product – Automatically increase product stock
 DELIMITER $$
 
 CREATE PROCEDURE restock_product (IN prod_id INT, IN add_qty INT)
