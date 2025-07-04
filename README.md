@@ -1,4 +1,4 @@
-Inventory Management System (SQL Project)
+# Inventory Management System (SQL Project)
 
 This is a SQL-based Inventory Management System designed to track products, suppliers, stock levels, and purchase orders. 
 The database simulates a basic inventory system for a small business or warehouse.
