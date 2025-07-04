@@ -10,3 +10,4 @@ BEGIN
 END$$
 
 DELIMITER ;
+--Usage: CALL restock_product(1, 5);
