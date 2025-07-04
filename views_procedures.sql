@@ -1,3 +1,4 @@
+-- View: Product Stock Summary
 CREATE VIEW product_stock_summary AS
 SELECT 
     p.product_id,
